@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x029Ax0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x029Ax0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gradient&rank_icon=github&include_all_commits=true)
